@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ティファニーで朝食を",
+  "base_artist": "LANA & LEX",
+  "createdAt": "2025-12-04T13:58:54.002393Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ティファニーで朝食を",
+      "artist": "Naomi Kawashima",
+      "has_synced": false,
+      "path": "select/01_ティファニーで朝食を_Naomi_Kawashima.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ティファニーで朝食を",
+      "artist": "川島なお美",
+      "has_synced": false,
+      "path": "select/02_ティファニーで朝食を_川島なお美.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ティファニーで朝食を",
+      "artist": "LANA & LEX",
+      "has_synced": false,
+      "path": "select/pl_01_ティファニーで朝食を_LANA_&_LEX.txt"
+    }
+  ]
+}
